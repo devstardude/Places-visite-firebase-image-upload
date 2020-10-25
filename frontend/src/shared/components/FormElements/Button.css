@@ -1,0 +1,70 @@
+.button {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 1px 5px 0px rgba(0,0,0,0.12);
+  font: inherit;
+  padding: 0.5rem 1.5rem!important;
+  border: 1px solid #07838b!important;
+  border-radius: 4px;
+  background: #07838b!important;
+  color: white!important;
+  cursor: pointer!important;
+  margin-right: 1rem!important;
+  text-decoration: none!important;
+  display: inline-block!important;
+  margin-bottom:5px!important;
+}
+
+.button:focus {
+  outline: none!important;
+}
+
+.button:hover,
+.button:active {
+  background:#02666d!important;
+  border-color: #02666d!important;
+}
+
+.button--inverse {
+  background: transparent!important;
+  color:#ff0055!important;
+}
+
+.button--inverse:hover,
+.button--inverse:active {
+  color: white!important;
+  background: #07838b!important;
+}
+
+.button--danger {
+  background: #f73b3b!important;
+  border-color: #f73b3b!important;
+}
+
+.button--danger:hover,
+.button--danger:active {
+  background: #ce1818!important;
+  border-color: #ce1818!important;
+}
+
+.button:disabled,
+.button:hover:disabled,
+.button:active:disabled {
+  background: #ccc!important;
+  color: #979797!important;
+  border-color: #ccc!important;
+  cursor: not-allowed!important;
+}
+
+.button--small {
+  font-size: 0.8rem;
+}
+
+.button--big {
+  font-size: 1.5rem;
+}
+
+@media (max-width:600px){
+  
+.button{
+margin-right: 0.5rem!important;
+}
+}
