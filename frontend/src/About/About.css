@@ -1,0 +1,10 @@
+.about-card{
+    width: 60%;
+}
+.about-title{
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+}
+.about-info{
+    text-align: left;
+}

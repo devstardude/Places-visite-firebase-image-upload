@@ -27,7 +27,6 @@ const Auth = () => {
     setUploading(true);
     const url = await uploadImage(imageFile);
     setUploading(false);
-    console.log(url)
     return url;
   };
 
@@ -109,8 +108,6 @@ const Auth = () => {
           image: await uploadingFile(formState.inputs.image.value),
         });
         ;
-
-        console.log(newFormData);
         const responseData = await sendRequest(
           `${process.env.REACT_APP_BACKEND_URL}/api/users/signup`,
           "POST",
