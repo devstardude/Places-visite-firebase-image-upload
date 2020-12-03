@@ -1,6 +1,6 @@
 # 🗺️ Place Visité
-<p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/ZNGNfnF/place.png">
+<p align="left">
+  <img width="70%" src="https://i.ibb.co/ZNGNfnF/place.png">
 </p>
 
 ### 🌟 Introduction 
