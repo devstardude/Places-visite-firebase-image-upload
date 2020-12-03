@@ -1,6 +1,6 @@
-# Place Visité
+# 🗺️ Place Visité
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/frvJLvf/burger.png">
+  <img width="460" height="300" src="https://i.ibb.co/ZNGNfnF/place.png">
 </p>
 
 ### 🌟 Introduction 
@@ -11,7 +11,7 @@ This is a Feature-Rich app in which you can add and remove places you visited to
 You just need to make an account, write your address and Boom, your coordinates are Fetched with <strong>Inbuilt Geocoding</strong>.<br/>
 Furthermore, you can see your location on <strong>Google maps inside the app</strong>.
 
-### 🗺️ How Does It Work
+### 🏖️ How Does It Work
 ---
 On the homepage, you'll see all the other users and places they visited.<br/>
 To add your place just Sign-Up/Sign-In with your Email and click on Add place, then Fill out the Details form.<br/>
