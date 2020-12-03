@@ -7,8 +7,7 @@
 --- 
 Want to Track the places you visit with a Great UI and User Experience?<br/>
 <strong>Place Visité</strong> is the Solution.<br/>
-This is a Feature-Rich app in which you can add and remove places you visited to your profile and also see where other people have been going.<br/><br/>
-
+This is a Feature-Rich app in which you can add and remove places you visited to your profile and also see where other people have been going.<br/>
 You just need to make an account, write your address and Boom, your coordinates are Fetched with <strong>Inbuilt Geocoding</strong>.<br/>
 Furthermore, you can see your location on <strong>Google maps inside the app</strong>.
 
