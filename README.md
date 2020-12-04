@@ -46,6 +46,9 @@ During the development of this app, I strengthened previous knowledge and  Learn
 - Html, Css, Javascript
 - Material UI
 
+~ Backend
+- Node.js with Express
+
 ~ Database
 - MongoDB (Mongoose)
 
